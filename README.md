@@ -21,10 +21,6 @@ La configuración adecuada de cabeceras HTTP es fundamental para proteger aplica
 
 **HackTheHeaders** te permite auditar un sitio web de forma pasiva para ver qué tan bien están implementadas esas defensas.
 
-## 🖥️ Captura de pantalla
-
-![Demo](https://i.imgur.com/your-image-url.png) <!-- Puedes subir una captura a Imgur o GitHub y pegar el link aquí -->
-
 ## ⚙️ Instalación
 
 ```bash
