@@ -24,6 +24,6 @@ La configuración adecuada de cabeceras HTTP es fundamental para proteger aplica
 ## ⚙️ Instalación
 
 ```bash
-git clone https://github.com/FBLAKER/HackTheHeaders.git
+git clone https://github.com/ZeroEx021/HackTheHeaders.git
 cd HackTheHeaders
 pip install -r requirements.txt
